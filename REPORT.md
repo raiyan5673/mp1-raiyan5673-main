@@ -2,8 +2,8 @@
 # MP1 Report — Queueing Simulator
 
 ## Student Info ## 
-- Name: **<Raiyan Siddiqui>**
-- AID: **<A20516097>**
+- Name: Raiyan Siddiqui
+- AID: A20516097
 
 ## How to Build & Run
 - Build: no build step required.
